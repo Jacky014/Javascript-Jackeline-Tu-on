@@ -1,0 +1,51 @@
+/*Página principal*/
+body{
+    background-color: lightpink;
+    background-repeat:repeat-x;
+    background-size:contain;
+    background-size:cover;
+    background-position: center;
+}
+h1, h2, h3{
+    text-align: center;
+
+}
+
+div.container {
+    display: block;
+    align-items: center;
+    margin: 10%;
+    text-align: center;
+}
+
+div.pBtn{
+    display: block;
+    align-items: center;
+    margin: auto;
+    padding: 0;
+}
+img.home__image1{
+    display: block;
+    align-items: center;
+    padding: auto 50%;
+    margin: auto;
+    border-style: dotted;
+}
+
+img.home__image2{
+    display: block;
+    align-items: center;
+    padding: auto 50%;
+    margin: auto;
+    border-style: dotted;
+}
+img.home__image3{
+    display: block;
+    align-items: center;
+    padding: auto 50%;
+    margin: auto;
+    border-style: dotted; 
+}
+p{
+    text-align: justify;
+}
